@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  JunxinSecurity
+
+  Created by mc on 2018/10/16.
+  Copyright © 2018 张玉飞. All rights reserved.
+*/
+
+NSPhotoLibraryUsageDescription = "Allow use your photo library?";
+NSCameraUsageDescription = "Allow use your camera?";
+NSFaceIDUsageDescription = "Allow use your FaceID?";

@@ -1,0 +1,78 @@
+PODS:
+  - Alamofire (4.8.1)
+  - CocoaAsyncSocket (7.6.3)
+  - Instructions (1.2.2)
+  - Localize-Swift (2.0.0)
+  - PagingKit (1.9.0)
+  - PromiseKit (6.8.3):
+    - PromiseKit/CorePromise (= 6.8.3)
+    - PromiseKit/Foundation (= 6.8.3)
+    - PromiseKit/UIKit (= 6.8.3)
+  - PromiseKit/CorePromise (6.8.3)
+  - PromiseKit/Foundation (6.8.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.8.3):
+    - PromiseKit/CorePromise
+  - PryntTrimmerView (3.0.0)
+  - PullToRefreshKit (0.8.8)
+  - SnapKit (4.2.0)
+  - Spruce (2.0.0)
+  - SteviaLayout (4.4.4)
+  - SwiftMessages (6.0.2):
+    - SwiftMessages/App (= 6.0.2)
+  - SwiftMessages/App (6.0.2)
+  - Themes (2.0.0)
+  - YPImagePicker (3.5.3):
+    - PryntTrimmerView (~> 3.0.0)
+    - SteviaLayout (~> 4.4.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CocoaAsyncSocket
+  - Instructions
+  - Localize-Swift
+  - PagingKit
+  - PromiseKit
+  - PullToRefreshKit
+  - SnapKit
+  - Spruce
+  - SwiftMessages
+  - Themes
+  - YPImagePicker
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CocoaAsyncSocket
+    - Instructions
+    - Localize-Swift
+    - PagingKit
+    - PromiseKit
+    - PryntTrimmerView
+    - PullToRefreshKit
+    - SnapKit
+    - Spruce
+    - SteviaLayout
+    - SwiftMessages
+    - Themes
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  Instructions: baff1b8ac41e195556c2b3453be1fcdd92e18612
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  PagingKit: a65ffc616296d617ac89897a986263fdae766db4
+  PromiseKit: 94c6e781838c5bf4717677d0d882b0e7250c80fc
+  PryntTrimmerView: 53ac64053c7ce63cb3e27f54090f52da0734891d
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Spruce: 0932495938ccc0b75add674a99bc46c9d0e39111
+  SteviaLayout: 523469269059f2c6da02820bb2ff28a5fe0780aa
+  SwiftMessages: 8b3cc68dba2f1c91aac1a74c90b10287aac35371
+  Themes: d3810257315e54a035691c204aa40a92f2f1085b
+  YPImagePicker: 5dd3814b47b1208e9c8cc8f6ef77fe90db3723b6
+
+PODFILE CHECKSUM: d0e87b3269e10565840d3d38b6b156aa4a236402
+
+COCOAPODS: 1.7.2
